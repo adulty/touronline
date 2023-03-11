@@ -26,7 +26,7 @@ body{
    <div class="row">
    <div class="col-md-1"></div>
    <div class="col-md-10" style="padding:25px;">
-     <h1>Tour Online [Home]</h1>
+     <h1>Admin TEFA [Home]</h1>
      <p>Selamat datang <b> <?= $_SESSION['full_name']; ?> </b></p>
      <p>Halaman ini hanya bisa diakses oleh member yang sudah mendaftar dan terverifikasi.</p>
      </div>
